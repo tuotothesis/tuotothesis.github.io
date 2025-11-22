@@ -4,10 +4,14 @@ title:  "Who am I? A beginning Statement"
 date:   2024-08-29 22:26:34 +0800
 categories: prose thoughts
 ---
-This is my first blog. The following words will be altered.
+Welcome to my first blog.
 
-If you wanted to build a similar personal page, you can follow these steps:
-1. https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+If you wanted to build a similar personal page, guides I find helpful are listed here:
+
+1. A big shout out to the owner of this blog! This post here is most helpful in starting my journey in blogging:https://hot33331.github.io/first-blogpost/ 
+1. Another page with comprehensive Jekyll introduction course and how to set up your configuration yml file: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+1. I'm using minimal mistakes as my website theme: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+1. Medium post (in Chinese) on using Jekyll in Markdown blogging:https://medium.com/@starshunter/%E7%94%A8-jekyll-%E5%92%8C-github-page-%E4%BE%86%E6%9E%B6%E8%A8%AD%E9%9D%9C%E6%85%8B-markdown-%E9%83%A8%E8%90%BD%E6%A0%BC-fcaa288d4dd7
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
